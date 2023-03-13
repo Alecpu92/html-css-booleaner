@@ -1,4 +1,10 @@
-header{
-    background-color: lightskyblue;
-    height: 20px;
+#logo{
+    width: 200px;
+    height: 200px;
 }
+header{
+    background-image: url("img/pattern.png");
+    background-color: lightskyblue;
+}
+
+
