@@ -9,4 +9,15 @@ header{
 strong{
     color: lightskyblue;
 }
+table{
+    text-align: justify;
+}
+th{
+   background-color: lightskyblue;
+   color: white;
+}
+.linee-updown{
+    background-color: lightblue;
+}
+
 
