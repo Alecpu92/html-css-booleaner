@@ -12,12 +12,16 @@ strong{
     color: lightskyblue;
 }
 table{
-    text-align: justify;
-    width: 100%;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
 }
 th{
    background-color: lightskyblue;
    color: white;
+   text-align: left;
 }
 .linee-updown{
     background-color: lightblue;
