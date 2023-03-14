@@ -4,7 +4,7 @@
     height: 150px;
 }
 header{
-    background-image: url('img/pattern.png');
+    background-image: url(../img/pattern.png);
     background-color: lightskyblue;
     ;
 }
